@@ -70,5 +70,5 @@
 </p>
 
 <p>
-    <img style="inline-flex justify-center items-center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaunalanjoseph&" alt="shaunalanjoseph" />
+    <img style="display: block;  margin-left: auto;  margin-right: auto;  width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=shaunalanjoseph&" alt="shaunalanjoseph" />
 </p>
